@@ -46,7 +46,7 @@ def load_data(data_dir):
 
 
 # Load training and testing datasets.
-ROOT_PATH = "/home/yash/Desktop/traffic/"
+ROOT_PATH = "/traffic"
 train_data_dir = os.path.join(ROOT_PATH, "datasets/BelgiumTS/Training")
 test_data_dir = os.path.join(ROOT_PATH, "datasets/BelgiumTS/Testing")
 
